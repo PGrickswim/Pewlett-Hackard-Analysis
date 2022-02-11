@@ -1,0 +1,235 @@
+Date, Team Member ID, Full Name, Key, Department, Job, Proficient, Status, Request Id, Voluntary Preference, TM Action Timestamp, Status Timestamp 
+2022-02-13,0076006455,Pearson  Johnlinna,T1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3220806,Up - Half Early,2022-01-16 07:31:44,2022-01-16 07:31:44
+2022-02-13,0075939016,Hawthorne  Bruce,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3222523,Up - Any,2022-01-16 14:25:23,2022-01-16 14:25:23
+2022-02-13,0076044508,Smalley  Michael,T1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3223739,Up - Full,2022-01-16 18:52:41,2022-01-16 18:52:41
+2022-02-13,0076031278,Tapia  Guadalupe,F2,Packing,Warehouse Associate,Y,Submitted,3229516,Down - Full,2022-01-17 22:07:07,2022-01-17 22:07:07
+2022-02-13,0075984701,Sanchez  Emmanuel,W2,Fulfillment Inbound,Lead Warehouse Worker,NA,Submitted,3236187,Up - Any,2022-01-19 04:05:09,2022-01-19 04:05:09
+2022-02-13,0067062539,johnson  marshaun,F1,Warehousing,Warehouse Worker,Y,Submitted,3241465,Down - Full,2022-01-19 23:23:44,2022-01-19 23:23:44
+2022-02-13,0075986021,Mauldin  Andre,R2,Outbound,Warehouse Worker,Y,Submitted,3247064,Down - Full,2022-01-21 09:32:14,2022-01-21 09:32:14
+2022-02-13,0075723068,Rowden  Timothy,W1,Inbound,Problem Solver,Y,Submitted,3252213,Up - Full,2022-01-22 14:23:01,2022-01-22 14:23:01
+2022-02-13,0076072693,Faulkner  David,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3252803,Up - Full,2022-01-22 16:52:27,2022-01-22 16:52:27
+2022-02-13,0076092260,Woods  Khalidah,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3261788,Up - Full,2022-01-24 07:12:33,2022-01-24 07:12:33
+2022-02-13,0075831349,Linares  Paul,U2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3277624,Up - Extend Late,2022-01-26 18:15:33,2022-01-26 18:15:33
+2022-02-13,0075901389,Williams  Bryce,F2,Warehousing,Warehouse Worker,Y,Submitted,3288565,Down - Any,2022-01-28 23:54:32,2022-01-28 23:54:32
+2022-02-13,0075943212,Teyssier  Juliana,M1,Packing,Warehouse Associate,N,Submitted,3289842,Up - Any,2022-01-29 07:37:26,2022-01-29 07:37:26
+2022-02-13,0076106118,Solano  Leonel,R1,Inbound,Warehouse Worker,N,Submitted,3290293,Down - Half Early,2022-01-29 10:05:25,2022-01-29 10:05:25
+2022-02-13,0076013730,Harris  REGGIE,U2,Fulfillment Outbound,Lead Warehouse Worker,NA,Submitted,3300293,Down - Full,2022-01-30 22:18:51,2022-01-30 22:18:51
+2022-02-13,0075905931,Thomas  Jatora,R2,Outbound,Warehouse Worker,Y,Submitted,3301250,Down - Any,2022-01-31 04:04:43,2022-01-31 04:04:43
+2022-02-13,0076005887,Hawkins  Nasya,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3302272,Up - Any,2022-01-31 08:29:07,2022-01-31 08:29:07
+2022-02-13,0076097450,Hill  Mark,M2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3314279,Up - Any,2022-02-02 02:54:41,2022-02-02 02:54:41
+2022-02-13,0076120505,Juarez  Orlando,U2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3319723,Down - Full,2022-02-02 20:44:21,2022-02-02 20:44:21
+2022-02-13,0076115845,Bouyer  Jaleel,R1,Fulfillment Inbound,Warehouse Associate,N,Submitted,3321715,Down - Full,2022-02-03 09:19:19,2022-02-03 09:19:19
+2022-02-13,0076007473,Turner  Raymond,U1,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3321732,Down - Half Late,2022-02-03 09:21:02,2022-02-03 09:21:02
+2022-02-13,0075992119,Campos  Gabriel,F1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3273785,Down - Half Late,2022-02-04 02:11:49,2022-02-04 02:11:49
+2022-02-13,0075671218,Garcia Mejia  Moises,F2,Warehousing,Warehouse Worker,Y,Submitted,3326599,Down - Full,2022-02-04 10:30:15,2022-02-04 10:30:15
+2022-02-13,0075829409,Sanchez  Alexis,S1,Outbound,Warehouse Worker,Y,Submitted,3333019,Down - Any,2022-02-05 17:19:52,2022-02-05 17:19:52
+2022-02-13,0075713195,Rivera Maldonado  Nancy,U2,Inbound,Warehouse Worker,Y,Submitted,3333508,Down - Full,2022-02-05 19:02:22,2022-02-05 19:02:22
+2022-02-13,0075692989,Moss  Kimberly,W2,Inbound,Problem Solver,Y,Submitted,3333870,Up - Full,2022-02-05 20:47:29,2022-02-05 20:47:29
+2022-02-13,0075928372,Brown  Leticia,W2,Fulfillment Outbound,Lead Warehouse Worker,NA,Submitted,3333969,Up - Full,2022-02-05 21:13:10,2022-02-05 21:13:10
+2022-02-13,0075819866,Fernandez  Ricardo,R1,Warehousing,Warehouse Worker,Y,Submitted,3338263,Down - Any,2022-02-06 11:33:11,2022-02-06 11:33:11
+2022-02-13,0076106225,Salinascalderon  Daniel,S2,Inbound,Warehouse Worker,N,Submitted,3339539,Down - Any,2022-02-06 15:44:44,2022-02-06 15:44:44
+2022-02-13,0075761055,Franklin  Julian,U2,Inbound,Problem Solver,Y,Submitted,3340531,Down - Full,2022-02-06 18:40:19,2022-02-06 18:40:19
+2022-02-13,0075831995,Majors  Elante,R1,Warehousing,Warehouse Worker,Y,Submitted,3340618,Down - Any,2022-02-06 18:58:28,2022-02-06 18:58:28
+2022-02-13,0076022982,Gutierrez  Marisa,S2,Packing,Warehouse Associate,Y,Submitted,3341308,Down - Full,2022-02-06 21:22:28,2022-02-06 21:22:28
+2022-02-13,0075971728,Holmes  Michael,U1,Fulfillment Inbound,Lead Warehouse Worker,NA,Submitted,3345014,Down - Any,2022-02-07 14:17:26,2022-02-07 14:17:26
+2022-02-13,0075966174,Huskey  Jarrmayne,F1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3345972,Down - Any,2022-02-07 17:01:57,2022-02-07 17:01:57
+2022-02-13,0075907026,Alicea  Izaiah,F2,Packing,Warehouse Associate,Y,Submitted,3347560,Down - Full,2022-02-07 21:47:56,2022-02-07 21:47:56
+2022-02-13,0074904085,Hernandez  Mitzi,R2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3347997,Down - Any,2022-02-08 00:06:56,2022-02-08 00:06:56
+2022-02-13,0076106112,Sharkey  Antwan,U1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3349998,Down - Half Late,2022-02-08 08:01:35,2022-02-08 08:01:35
+2022-02-13,0075864831,Garcia Ortiz  Eduardo,R1,Warehousing,Warehouse Worker,Y,Submitted,3350621,Down - Any,2022-02-08 09:53:31,2022-02-08 09:53:31
+2022-02-13,0076065200,Bush  Jeremiah,M2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3351071,Up - Half Early,2022-02-08 11:13:31,2022-02-08 11:13:31
+2022-02-13,0076066977,Byrd  Troy,S2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3351570,Down - Half Early,2022-02-08 12:36:48,2022-02-08 12:36:48
+2022-02-13,0075675749,Mitchell  Shakura,U2,Inbound,Problem Solver,Y,Submitted,3241672,Down - Full,2022-02-08 19:15:53,2022-02-08 19:15:53
+2022-02-13,0075805492,Rosas  Javier,U2,Warehousing,Warehouse Worker,Y,Submitted,3353946,Down - Full,2022-02-08 19:36:02,2022-02-08 19:36:02
+2022-02-13,0075937625,Castellanos  Federico,U2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3354538,Down - Full,2022-02-08 21:41:15,2022-02-08 21:41:15
+2022-02-13,0076111117,Bueno  Carmen,S2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3355086,Up - Full,2022-02-09 01:07:54,2022-02-09 01:07:54
+2022-02-13,0075833403,Garcia  Celia,U1,Packing,Warehouse Associate,Y,Submitted,3356040,Down - Full,2022-02-09 06:14:08,2022-02-09 06:14:08
+2022-02-13,0075946568,Solis  Leonel,F1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3356354,Down - Any,2022-02-09 07:36:40,2022-02-09 07:36:40
+2022-02-13,0075885213,Gallagher  James,U2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3356750,Down - Any,2022-02-09 08:55:22,2022-02-09 08:55:22
+2022-02-13,0076005429,Castiblanco  Danilo,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3360228,Up - Full,2022-02-09 19:22:59,2022-02-09 19:22:59
+2022-02-13,0076120459,Romero  Luis,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3361400,Up - Full,2022-02-10 02:48:22,2022-02-10 02:48:22
+2022-02-13,0075887109,Liang  Bill,S1,Packing,Warehouse Associate,Y,Submitted,3362518,Down - Full,2022-02-10 08:20:32,2022-02-10 08:20:32
+2022-02-13,0075959919,Hymon  Tiana,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3362643,Down - Any,2022-02-10 08:48:18,2022-02-10 08:48:18
+2022-02-14,0076006455,Pearson  Johnlinna,T1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3220807,Up - Half Early,2022-01-16 07:31:52,2022-01-16 07:31:52
+2022-02-14,0076029113,Kleiner  Timothy,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3221795,Up - Any,2022-01-16 11:25:58,2022-01-16 11:25:58
+2022-02-14,0075939016,Hawthorne  Bruce,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3222524,Up - Any,2022-01-16 14:25:23,2022-01-16 14:25:23
+2022-02-14,0076044508,Smalley  Michael,T1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3223740,Up - Full,2022-01-16 18:52:41,2022-01-16 18:52:41
+2022-02-14,0075874952,Dinning  Byron,T2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3225419,Up - Any,2022-01-17 04:12:45,2022-01-17 04:12:45
+2022-02-14,0075984701,Sanchez  Emmanuel,W2,Fulfillment Inbound,Lead Warehouse Worker,NA,Submitted,3236188,Up - Any,2022-01-19 04:05:09,2022-01-19 04:05:09
+2022-02-14,0075614213,Fonseca Corona  Jesus,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3237305,Up - Full,2022-01-19 08:35:56,2022-01-19 08:35:56
+2022-02-14,0075675749,Mitchell  Shakura,U2,Inbound,Problem Solver,Y,Submitted,3241673,Up - Extend Late,2022-01-20 01:52:56,2022-01-20 01:52:56
+2022-02-14,0075901840,Sanchez  Angel,R2,Outbound,Warehouse Worker,Y,Submitted,3245444,Up - Full,2022-01-20 21:10:26,2022-01-20 21:10:26
+2022-02-14,0075830328,Abarca  Giovanni,T1,Warehousing,Warehouse Worker,Y,Submitted,3249081,Up - Full,2022-01-21 19:24:11,2022-01-21 19:24:11
+2022-02-14,0075723068,Rowden  Timothy,W1,Inbound,Problem Solver,Y,Submitted,3252214,Up - Full,2022-01-22 14:23:01,2022-01-22 14:23:01
+2022-02-14,0076072693,Faulkner  David,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3252804,Up - Full,2022-01-22 16:52:27,2022-01-22 16:52:27
+2022-02-14,0076013312,Nava  Julio,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3253366,Up - Any,2022-01-22 19:03:11,2022-01-22 19:03:11
+2022-02-14,0075896449,Brown  Maine,R2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3259463,Up - Half Early,2022-01-23 18:50:41,2022-01-23 18:50:41
+2022-02-14,0076092260,Woods  Khalidah,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3261789,Up - Full,2022-01-24 07:12:33,2022-01-24 07:12:33
+2022-02-14,0075831349,Linares  Paul,U2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3277625,Up - Extend Late,2022-01-26 18:15:33,2022-01-26 18:15:33
+2022-02-14,0075821553,Lee  Raymond,U1,Packing,Warehouse Associate,Y,Submitted,3279084,Down - Half Late,2022-01-27 01:22:20,2022-01-27 01:22:20
+2022-02-14,0076114867,Baker  Robert,W2,Warehousing,Warehouse Worker,Y,Submitted,3291514,Up - Any,2022-01-29 15:47:31,2022-01-29 15:47:31
+2022-02-14,0075843894,Anderson  Rhonda,F2,Packing,Warehouse Associate,Y,Submitted,3296683,Down - Full,2022-01-30 09:48:34,2022-01-30 09:48:34
+2022-02-14,0076005887,Hawkins  Nasya,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3302273,Up - Any,2022-01-31 08:29:07,2022-01-31 08:29:07
+2022-02-14,0076093361,Boozer  Mariah,M2,Packing,Warehouse Associate,Y,Submitted,3314298,Down - Any,2022-02-02 03:03:15,2022-02-02 03:03:15
+2022-02-14,0075384040,Gladney  Jawuan,W1,Inbound,Problem Solver,Y,Submitted,3323647,Up - Full,2022-02-03 17:14:59,2022-02-03 17:14:59
+2022-02-14,0076031416,Martinez  Jessica,T2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3332222,Up - Full,2022-02-05 14:39:15,2022-02-05 14:39:15
+2022-02-14,0075692989,Moss  Kimberly,W2,Inbound,Problem Solver,Y,Submitted,3333868,Up - Full,2022-02-05 20:47:18,2022-02-05 20:47:18
+2022-02-14,0075888525,Ruizmanzano  Alexis,S1,Outbound,Warehouse Worker,Y,Submitted,3338352,Down - Full,2022-02-06 11:45:02,2022-02-06 11:45:02
+2022-02-14,0075897763,Bridges  Donte,F2,Outbound,Warehouse Worker,Y,Submitted,3338366,Down - Any,2022-02-06 11:51:33,2022-02-06 11:51:33
+2022-02-14,0076031278,Tapia  Guadalupe,F2,Packing,Warehouse Associate,Y,Submitted,3352115,Down - Full,2022-02-08 14:10:50,2022-02-08 14:10:50
+2022-02-14,0075678064,Sharp  Lakendra,W2,ICQA,Quality Tech,Y,Submitted,3356648,Up - Full,2022-02-09 08:35:45,2022-02-09 08:35:45
+2022-02-14,0075885213,Gallagher  James,U2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3356751,Down - Any,2022-02-09 08:55:27,2022-02-09 08:55:27
+2022-02-14,0075997474,Meza  Roxana,U2,Inbound,Problem Solver,NA,Submitted,3359940,Down - Any,2022-02-09 18:38:59,2022-02-09 18:38:59
+2022-02-14,0076005429,Castiblanco  Danilo,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3360229,Up - Full,2022-02-09 19:23:07,2022-02-09 19:23:07
+2022-02-14,0075671913,Bridges  Harold,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3360522,Up - Any,2022-02-09 20:41:16,2022-02-09 20:41:16
+2022-02-14,0075688628,Roodriguez  Felipe,U2,Inbound,Warehouse Worker,Y,Submitted,3362819,Down - Full,2022-02-10 09:33:52,2022-02-10 09:33:52
+2022-02-15,0076029113,Kleiner  Timothy,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3221796,Up - Any,2022-01-16 11:25:58,2022-01-16 11:25:58
+2022-02-15,0075939016,Hawthorne  Bruce,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3222525,Up - Any,2022-01-16 14:25:23,2022-01-16 14:25:23
+2022-02-15,0075937068,Hughes  Sheree,F1,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3227111,Up - Full,2022-01-17 12:38:20,2022-01-17 12:38:20
+2022-02-15,0075984701,Sanchez  Emmanuel,W2,Fulfillment Inbound,Lead Warehouse Worker,NA,Submitted,3236189,Up - Any,2022-01-19 04:05:09,2022-01-19 04:05:09
+2022-02-15,0075614213,Fonseca Corona  Jesus,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3237307,Up - Full,2022-01-19 08:36:03,2022-01-19 08:36:03
+2022-02-15,0075675749,Mitchell  Shakura,U2,Inbound,Problem Solver,Y,Submitted,3241674,Up - Extend Late,2022-01-20 01:52:56,2022-01-20 01:52:56
+2022-02-15,0075863167,Ibarra  Ricardo,R2,Warehousing,Warehouse Worker,Y,Submitted,3243851,Up - Full,2022-01-20 13:42:49,2022-01-20 13:42:49
+2022-02-15,0075901840,Sanchez  Angel,R2,Outbound,Warehouse Worker,Y,Submitted,3245446,Up - Full,2022-01-20 21:10:31,2022-01-20 21:10:31
+2022-02-15,0075992119,Campos  Gabriel,F1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3250738,Up - Any,2022-01-22 06:36:22,2022-01-22 06:36:22
+2022-02-15,0075782174,Hoskins  Melvin,F1,Inbound,Warehouse Worker,Y,Submitted,3252328,Up - Half Early,2022-01-22 14:40:09,2022-01-22 14:40:09
+2022-02-15,0076072693,Faulkner  David,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3252805,Up - Full,2022-01-22 16:52:27,2022-01-22 16:52:27
+2022-02-15,0076013312,Nava  Julio,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3253367,Up - Any,2022-01-22 19:03:11,2022-01-22 19:03:11
+2022-02-15,0076092260,Woods  Khalidah,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3261790,Up - Full,2022-01-24 07:12:33,2022-01-24 07:12:33
+2022-02-15,0075831349,Linares  Paul,U2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3277626,Up - Extend Late,2022-01-26 18:15:33,2022-01-26 18:15:33
+2022-02-15,0076111378,Bailey  Tiffany,W2,ICQA,Quality Tech,Y,Submitted,3278021,Up - Half Early,2022-01-26 19:35:32,2022-01-26 19:35:32
+2022-02-15,0075960043,Roman  Orlando,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3281358,Up - Any,2022-01-27 12:09:58,2022-01-27 12:09:58
+2022-02-15,0076114867,Baker  Robert,W2,Warehousing,Warehouse Worker,Y,Submitted,3291515,Up - Any,2022-01-29 15:47:39,2022-01-29 15:47:39
+2022-02-15,0076005887,Hawkins  Nasya,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3302274,Up - Any,2022-01-31 08:29:07,2022-01-31 08:29:07
+2022-02-15,0075865291,Valenzuela  Joe,U2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3313519,Up - Extend Late,2022-02-01 21:53:12,2022-02-01 21:53:12
+2022-02-15,0076119850,Pena  Jose,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3320127,Up - Full,2022-02-02 23:15:44,2022-02-02 23:15:44
+2022-02-15,0076097776,Trujillo  Margarito,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3320137,Up - Full,2022-02-02 23:19:03,2022-02-02 23:19:03
+2022-02-15,0075384040,Gladney  Jawuan,W1,Inbound,Problem Solver,Y,Submitted,3323648,Up - Full,2022-02-03 17:14:59,2022-02-03 17:14:59
+2022-02-15,0076115360,Phillips  Cressa,W1,Outbound,Problem Solver,NA,Submitted,3326311,Up - Full,2022-02-04 09:24:32,2022-02-04 09:24:32
+2022-02-15,0075843612,Brandon  Carl,F1,Inbound,Warehouse Worker,Y,Submitted,3331417,Up - Full,2022-02-05 11:22:45,2022-02-05 11:22:45
+2022-02-15,0075692989,Moss  Kimberly,W2,Inbound,Problem Solver,Y,Submitted,3333869,Up - Full,2022-02-05 20:47:24,2022-02-05 20:47:24
+2022-02-15,0075928372,Brown  Leticia,W2,Fulfillment Outbound,Lead Warehouse Worker,NA,Submitted,3333970,Up - Full,2022-02-05 21:13:10,2022-02-05 21:13:10
+2022-02-15,0076071181,Ortiz  Leonardo,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3342292,Up - Full,2022-02-07 03:25:03,2022-02-07 03:25:03
+2022-02-15,0075817689,Smajda  Jeremy,W2,Warehousing,Problem Solver,Y,Submitted,3345377,Up - Full,2022-02-07 15:33:50,2022-02-07 15:33:50
+2022-02-15,0075687100,Bender Russell  Karen,W2,Inbound,Problem Solver,Y,Submitted,3349700,Up - Full,2022-02-08 07:07:31,2022-02-08 07:07:31
+2022-02-15,0075402378,Zamudio  Maria,W1,ICQA,Quality Tech,Y,Submitted,3350804,Up - Full,2022-02-08 10:23:05,2022-02-08 10:23:05
+2022-02-15,0075885213,Gallagher  James,U2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3356752,Down - Any,2022-02-09 08:55:31,2022-02-09 08:55:31
+2022-02-15,0075886651,Roberts  Naro,U1,Inbound,Warehouse Worker,Y,Submitted,3358692,Down - Full,2022-02-09 15:23:35,2022-02-09 15:23:35
+2022-02-15,0075619954,Vega  Juan,U1,ICQA,Quality Tech,Y,Submitted,3359877,Up - Extend Early,2022-02-09 18:25:37,2022-02-09 18:25:37
+2022-02-15,0075997474,Meza  Roxana,U2,Inbound,Problem Solver,NA,Submitted,3359941,Down - Any,2022-02-09 18:38:59,2022-02-09 18:38:59
+2022-02-15,0076005429,Castiblanco  Danilo,W2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3360230,Up - Full,2022-02-09 19:23:11,2022-02-09 19:23:11
+2022-02-15,0075671913,Bridges  Harold,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3360523,Up - Any,2022-02-09 20:41:16,2022-02-09 20:41:16
+2022-02-15,0075898285,Allen  Michael,T2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3360686,Down - Full,2022-02-09 21:23:44,2022-02-09 21:23:44
+2022-02-15,0076103278,Renteria  Ilse,T2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3361260,Down - Full,2022-02-10 01:29:46,2022-02-10 01:29:46
+2022-02-16,0076029113,Kleiner  Timothy,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3221797,Up - Any,2022-01-16 11:25:58,2022-01-16 11:25:58
+2022-02-16,0075782720,Carrazco  Juan,S1,Warehousing,Warehouse Worker,Y,Submitted,3222023,Up - Full,2022-01-16 12:25:42,2022-01-16 12:25:42
+2022-02-16,0075937068,Hughes  Sheree,F1,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3227112,Up - Full,2022-01-17 12:38:20,2022-01-17 12:38:20
+2022-02-16,0076093681,Peralta  Justin,L1,Engineering & Facilities,Utility Attendant,NA,Submitted,3228672,Up - Extend Early,2022-01-17 18:52:42,2022-01-17 18:52:42
+2022-02-16,0075863167,Ibarra  Ricardo,R2,Warehousing,Warehouse Worker,Y,Submitted,3243850,Up - Full,2022-01-20 13:42:46,2022-01-20 13:42:46
+2022-02-16,0075901840,Sanchez  Angel,R2,Outbound,Warehouse Worker,Y,Submitted,3245447,Up - Full,2022-01-20 21:10:41,2022-01-20 21:10:41
+2022-02-16,0075992119,Campos  Gabriel,F1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3250739,Up - Half Early,2022-01-22 06:36:22,2022-01-22 06:36:22
+2022-02-16,0075853021,Vega  Yaxkyn,S2,Warehousing,Warehouse Worker,Y,Submitted,3252306,Up - Full,2022-01-22 14:32:48,2022-01-22 14:32:48
+2022-02-16,0075782174,Hoskins  Melvin,F1,Inbound,Warehouse Worker,Y,Submitted,3252329,Up - Half Early,2022-01-22 14:40:09,2022-01-22 14:40:09
+2022-02-16,0076072693,Faulkner  David,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3252806,Up - Any,2022-01-22 16:52:27,2022-01-22 16:52:27
+2022-02-16,0075896449,Brown  Maine,R2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3259461,Up - Full,2022-01-23 18:50:20,2022-01-23 18:50:20
+2022-02-16,0075995868,Jones  Sherrell,S1,Fulfillment Inbound,Warehouse Associate,N,Submitted,3267891,Up - Full,2022-01-25 07:48:26,2022-01-25 07:48:26
+2022-02-16,0075831349,Linares  Paul,U2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3277627,Up - Extend Late,2022-01-26 18:15:33,2022-01-26 18:15:33
+2022-02-16,0075960043,Roman  Orlando,R1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3281360,Up - Any,2022-01-27 12:10:05,2022-01-27 12:10:05
+2022-02-16,0075811614,Daniels  Ashley,W2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3283263,Up - Extend Late,2022-01-27 19:32:08,2022-01-27 19:32:08
+2022-02-16,0076114855,Harrod  Jadin,S1,Warehousing,Warehouse Worker,Y,Submitted,3273077,Up - Full,2022-01-29 07:15:08,2022-01-29 07:15:08
+2022-02-16,0076116006,Lewis  Zakkiyya,S1,Warehousing,Warehouse Worker,Y,Submitted,3290673,Up - Any,2022-01-29 11:37:10,2022-01-29 11:37:10
+2022-02-16,0072609407,Meller  Jessica,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3290996,Up - Half Early,2022-01-29 13:09:57,2022-01-29 13:09:57
+2022-02-16,0075880857,Hughes  Gianni,S1,Inbound,Warehouse Worker,Y,Submitted,3310001,Up - Full,2022-02-01 11:58:51,2022-02-01 11:58:51
+2022-02-16,0075865291,Valenzuela  Joe,U2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3313520,Up - Extend Late,2022-02-01 21:53:12,2022-02-01 21:53:12
+2022-02-16,0076115845,Bouyer  Jaleel,R1,Fulfillment Inbound,Warehouse Associate,N,Submitted,3321716,Up - Full,2022-02-03 09:19:19,2022-02-03 09:19:19
+2022-02-16,0075843612,Brandon  Carl,F1,Inbound,Warehouse Worker,Y,Submitted,3331418,Up - Full,2022-02-05 11:22:45,2022-02-05 11:22:45
+2022-02-16,0076071181,Ortiz  Leonardo,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3342293,Up - Full,2022-02-07 03:25:03,2022-02-07 03:25:03
+2022-02-16,0075886432,Moore  Breonna,S1,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3344681,Up - Half Early,2022-02-07 13:08:39,2022-02-07 13:08:39
+2022-02-16,0075402378,Zamudio  Maria,W1,ICQA,Quality Tech,Y,Submitted,3350805,Up - Extend Early,2022-02-08 10:23:05,2022-02-08 10:23:05
+2022-02-16,0075885213,Gallagher  James,U2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3356753,Down - Any,2022-02-09 08:55:37,2022-02-09 08:55:37
+2022-02-16,0076103261,Guzman  Melany,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3356881,Up - Full,2022-02-09 09:28:45,2022-02-09 09:28:45
+2022-02-16,0075840272,Banks  Jeremy,W1,Inbound,Warehouse Worker,Y,Submitted,3358809,Down - Any,2022-02-09 15:41:22,2022-02-09 15:41:22
+2022-02-16,0075619954,Vega  Juan,U1,ICQA,Quality Tech,Y,Submitted,3359878,Up - Extend Early,2022-02-09 18:25:37,2022-02-09 18:25:37
+2022-02-16,0075997474,Meza  Roxana,U2,Inbound,Problem Solver,NA,Submitted,3359942,Down - Any,2022-02-09 18:38:59,2022-02-09 18:38:59
+2022-02-17,0075782720,Carrazco  Juan,S1,Warehousing,Warehouse Worker,Y,Submitted,3222024,Up - Full,2022-01-16 12:25:42,2022-01-16 12:25:42
+2022-02-17,0075937068,Hughes  Sheree,F1,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3227113,Up - Full,2022-01-17 12:38:20,2022-01-17 12:38:20
+2022-02-17,0076093681,Peralta  Justin,L1,Engineering & Facilities,Utility Attendant,NA,Submitted,3228673,Up - Extend Early,2022-01-17 18:52:42,2022-01-17 18:52:42
+2022-02-17,0075879743,King  Deyja,U2,ICQA,Quality Tech,Y,Submitted,3234234,Up - Full,2022-01-18 17:26:43,2022-01-18 17:26:43
+2022-02-17,0069518413,Ziemann  Ashley,U1,Warehousing,Problem Solver,Y,Submitted,3238995,Up - Half Early,2022-01-19 14:39:00,2022-01-19 14:39:00
+2022-02-17,0076102924,Enos  Demontre,U2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3245793,Up - Any,2022-01-20 23:49:02,2022-01-20 23:49:02
+2022-02-17,0075901389,Williams  Bryce,F2,Warehousing,Warehouse Worker,Y,Submitted,3246922,Up - Full,2022-01-21 08:35:42,2022-01-21 08:35:42
+2022-02-17,0076072693,Faulkner  David,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3252807,Up - Any,2022-01-22 16:52:27,2022-01-22 16:52:27
+2022-02-17,0075689087,Rodriguez  Melissa,U1,Outbound,Lead Warehouse Worker,NA,Submitted,3254035,Up - Full,2022-01-22 22:28:18,2022-01-22 22:28:18
+2022-02-17,0075992119,Campos  Gabriel,F1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3273786,Up - Any,2022-01-26 05:25:46,2022-01-26 05:25:46
+2022-02-17,0069112027,Kelly  Precious,U1,ICQA,Training Specialist,Y,Submitted,3274660,Up - Any,2022-01-26 08:45:54,2022-01-26 08:45:54
+2022-02-17,0075835233,Aldava  Antonio,E3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3276069,Up - Full,2022-01-26 13:53:24,2022-01-26 13:53:24
+2022-02-17,0075831349,Linares  Paul,U2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3277628,Up - Full,2022-01-26 18:15:33,2022-01-26 18:15:33
+2022-02-17,0075811614,Daniels  Ashley,W2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3283264,Up - Extend Late,2022-01-27 19:32:08,2022-01-27 19:32:08
+2022-02-17,0076122210,Forbes  Robert,U1,Warehousing,Warehouse Worker,Y,Submitted,3289377,Up - Full,2022-01-29 05:04:15,2022-01-29 05:04:15
+2022-02-17,0076114855,Harrod  Jadin,S1,Warehousing,Warehouse Worker,Y,Submitted,3273080,Up - Full,2022-01-29 07:15:17,2022-01-29 07:15:17
+2022-02-17,0072609407,Meller  Jessica,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3290997,Up - Half Early,2022-01-29 13:09:57,2022-01-29 13:09:57
+2022-02-17,0075971727,Costantino  Joseph,U1,Fulfillment Outbound,Lead Warehouse Worker,NA,Submitted,3292487,Up - Any,2022-01-29 19:09:31,2022-01-29 19:09:31
+2022-02-17,0075385435,Lozano  Victor,U1,Inbound,Problem Solver,Y,Submitted,3292767,Up - Full,2022-01-29 20:28:06,2022-01-29 20:28:06
+2022-02-17,0075857665,Bustamante  Randy,U1,ICQA,Quality Tech,Y,Submitted,3297366,Up - Half Early,2022-01-30 12:29:05,2022-01-30 12:29:05
+2022-02-17,0075811108,Hughes  Ernest,U2,ICQA,Quality Tech,Y,Submitted,3300823,Up - Full,2022-01-31 01:07:21,2022-01-31 01:07:21
+2022-02-17,0075905931,Thomas  Jatora,R2,Outbound,Warehouse Worker,Y,Submitted,3301256,Down - Any,2022-01-31 04:04:57,2022-01-31 04:04:57
+2022-02-17,0075707423,Brown  DJ,U1,Inbound,Problem Solver,Y,Submitted,3303532,Up - Full,2022-01-31 13:28:15,2022-01-31 13:28:15
+2022-02-17,0076106216,Salazar  Stephanie,S2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3308128,Up - Half Early,2022-02-01 05:49:04,2022-02-01 05:49:04
+2022-02-17,0075880857,Hughes  Gianni,S1,Inbound,Warehouse Worker,Y,Submitted,3310002,Up - Full,2022-02-01 11:58:51,2022-02-01 11:58:51
+2022-02-17,0075675851,Herrera  Luis,U1,Inbound,Problem Solver,Y,Submitted,3316115,Up - Full,2022-02-02 10:05:12,2022-02-02 10:05:12
+2022-02-17,0076115845,Bouyer  Jaleel,R1,Fulfillment Inbound,Warehouse Associate,N,Submitted,3321717,Up - Extend Late,2022-02-03 09:19:19,2022-02-03 09:19:19
+2022-02-17,0075703029,Cortes  Rafael,U1,Outbound,Problem Solver,Y,Submitted,3326367,Up - Full,2022-02-04 09:35:15,2022-02-04 09:35:15
+2022-02-17,0075843612,Brandon  Carl,F1,Inbound,Warehouse Worker,Y,Submitted,3331419,Up - Full,2022-02-05 11:22:45,2022-02-05 11:22:45
+2022-02-17,0071880355,Gonzalez  Michael,U1,Inbound,Problem Solver,Y,Submitted,3340085,Up - Full,2022-02-06 17:19:24,2022-02-06 17:19:24
+2022-02-17,0074129321,Johnson  Damien,U2,ICQA,Quality Tech,Y,Submitted,3340606,Up - Full,2022-02-06 18:56:28,2022-02-06 18:56:28
+2022-02-17,0076071181,Ortiz  Leonardo,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3342294,Up - Full,2022-02-07 03:25:15,2022-02-07 03:25:15
+2022-02-17,0076113161,Garcia  Leslie,U1,ICQA,Quality Tech,Y,Submitted,3343582,Up - Full,2022-02-07 09:02:20,2022-02-07 09:02:20
+2022-02-17,0075886432,Moore  Breonna,S1,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3344682,Up - Half Early,2022-02-07 13:08:46,2022-02-07 13:08:46
+2022-02-17,0075402378,Zamudio  Maria,W1,ICQA,Quality Tech,Y,Submitted,3350806,Up - Extend Early,2022-02-08 10:23:05,2022-02-08 10:23:05
+2022-02-17,0076119837,Wilson  Loren,U2,ICQA,Quality Tech,NA,Submitted,3352869,Up - Full,2022-02-08 16:13:37,2022-02-08 16:13:37
+2022-02-17,0075805257,Ayoola  Babatunde,U2,Packing,Warehouse Associate,Y,Submitted,3353411,Up - Any,2022-02-08 18:15:20,2022-02-08 18:15:20
+2022-02-17,0076103261,Guzman  Melany,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3356882,Up - Full,2022-02-09 09:28:45,2022-02-09 09:28:45
+2022-02-17,0075840272,Banks  Jeremy,W1,Inbound,Warehouse Worker,Y,Submitted,3358810,Down - Any,2022-02-09 15:41:22,2022-02-09 15:41:22
+2022-02-17,0075619954,Vega  Juan,U1,ICQA,Quality Tech,Y,Submitted,3359879,Up - Full,2022-02-09 18:25:37,2022-02-09 18:25:37
+2022-02-17,0075671913,Bridges  Harold,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3360532,Up - Extend Early,2022-02-09 20:45:39,2022-02-09 20:45:39
+2022-02-18,0075970318,Sanchez  Diego,M1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3227824,Up - Any,2022-01-17 15:43:06,2022-01-17 15:43:06
+2022-02-18,0076093681,Peralta  Justin,L1,Engineering & Facilities,Utility Attendant,NA,Submitted,3228674,Up - Extend Early,2022-01-17 18:52:42,2022-01-17 18:52:42
+2022-02-18,0075879743,King  Deyja,U2,ICQA,Quality Tech,Y,Submitted,3234235,Up - Full,2022-01-18 17:26:43,2022-01-18 17:26:43
+2022-02-18,0069518413,Ziemann  Ashley,U1,Warehousing,Problem Solver,Y,Submitted,3238996,Up - Half Early,2022-01-19 14:39:05,2022-01-19 14:39:05
+2022-02-18,0075970224,Carreon  Mario,M1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3249319,Up - Any,2022-01-21 20:46:04,2022-01-21 20:46:04
+2022-02-18,0076072693,Faulkner  David,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3252808,Up - Any,2022-01-22 16:52:27,2022-01-22 16:52:27
+2022-02-18,0069112027,Kelly  Precious,U1,ICQA,Training Specialist,Y,Submitted,3274661,Up - Any,2022-01-26 08:45:54,2022-01-26 08:45:54
+2022-02-18,0075811614,Daniels  Ashley,W2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3283265,Up - Extend Late,2022-01-27 19:32:08,2022-01-27 19:32:08
+2022-02-18,0076122210,Forbes  Robert,U1,Warehousing,Warehouse Worker,Y,Submitted,3289378,Up - Full,2022-01-29 05:04:10,2022-01-29 05:04:10
+2022-02-18,0075943212,Teyssier  Juliana,M1,Packing,Warehouse Associate,N,Submitted,3289844,Up - Any,2022-01-29 07:37:56,2022-01-29 07:37:56
+2022-02-18,0075971727,Costantino  Joseph,U1,Fulfillment Outbound,Lead Warehouse Worker,NA,Submitted,3292488,Up - Any,2022-01-29 19:09:38,2022-01-29 19:09:38
+2022-02-18,0075385435,Lozano  Victor,U1,Inbound,Problem Solver,Y,Submitted,3292768,Up - Half Early,2022-01-29 20:28:12,2022-01-29 20:28:12
+2022-02-18,0075880857,Hughes  Gianni,S1,Inbound,Warehouse Worker,Y,Submitted,3310003,Up - Half Early,2022-02-01 11:58:51,2022-02-01 11:58:51
+2022-02-18,0076022425,Gomez Hernandez  Esmeralda,T2,Packing,Warehouse Associate,Y,Submitted,3313412,Down - Full,2022-02-01 21:17:35,2022-02-01 21:17:35
+2022-02-18,0075675851,Herrera  Luis,U1,Inbound,Problem Solver,Y,Submitted,3316116,Up - Full,2022-02-02 10:05:12,2022-02-02 10:05:12
+2022-02-18,0076115845,Bouyer  Jaleel,R1,Fulfillment Inbound,Warehouse Associate,N,Submitted,3321718,Up - Extend Late,2022-02-03 09:19:19,2022-02-03 09:19:19
+2022-02-18,0075703029,Cortes  Rafael,U1,Outbound,Problem Solver,Y,Submitted,3326368,Up - Full,2022-02-04 09:35:21,2022-02-04 09:35:21
+2022-02-18,0076102286,Gamble  Nathaniel,T2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3327599,Down - Full,2022-02-04 14:43:11,2022-02-04 14:43:11
+2022-02-18,0067062539,johnson  marshaun,F1,Warehousing,Warehouse Worker,Y,Submitted,3327813,Down - Full,2022-02-04 15:17:54,2022-02-04 15:17:54
+2022-02-18,0075811108,Hughes  Ernest,U2,ICQA,Quality Tech,Y,Submitted,3328989,Up - Full,2022-02-04 20:46:04,2022-02-04 20:46:04
+2022-02-18,0076093397,Guitron  Isaias,M2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3330711,Up - Any,2022-02-05 08:03:01,2022-02-05 08:03:01
+2022-02-18,0075689087,Rodriguez  Melissa,U1,Outbound,Lead Warehouse Worker,NA,Submitted,3254036,Up - Full,2022-02-05 10:29:07,2022-02-05 10:29:07
+2022-02-18,0075830238,Hoskins  Shirnese,T2,Packing,Warehouse Associate,Y,Submitted,3349789,Down - Full,2022-02-08 07:25:37,2022-02-08 07:25:37
+2022-02-18,0075402378,Zamudio  Maria,W1,ICQA,Quality Tech,Y,Submitted,3350807,Up - Extend Early,2022-02-08 10:23:05,2022-02-08 10:23:05
+2022-02-18,0076103261,Guzman  Melany,S2,Fulfillment Outbound,Warehouse Associate,N,Submitted,3356883,Up - Full,2022-02-09 09:28:45,2022-02-09 09:28:45
+2022-02-18,0075840272,Banks  Jeremy,W1,Inbound,Warehouse Worker,Y,Submitted,3358811,Down - Any,2022-02-09 15:41:22,2022-02-09 15:41:22
+2022-02-18,0075671913,Bridges  Harold,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3360533,Up - Extend Early,2022-02-09 20:45:39,2022-02-09 20:45:39
+2022-02-19,0076044508,Smalley  Michael,T1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3223741,Up - Full,2022-01-16 18:52:41,2022-01-16 18:52:41
+2022-02-19,0075874952,Dinning  Byron,T2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3225421,Up - Any,2022-01-17 04:12:57,2022-01-17 04:12:57
+2022-02-19,0075970318,Sanchez  Diego,M1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3227825,Up - Any,2022-01-17 15:43:06,2022-01-17 15:43:06
+2022-02-19,0076093681,Peralta  Justin,L1,Engineering & Facilities,Utility Attendant,NA,Submitted,3228675,Up - Extend Early,2022-01-17 18:52:42,2022-01-17 18:52:42
+2022-02-19,0075970224,Carreon  Mario,M1,Fulfillment Outbound,Warehouse Associate,N,Submitted,3249320,Up - Any,2022-01-21 20:46:17,2022-01-21 20:46:17
+2022-02-19,0075811614,Daniels  Ashley,W2,Fulfillment Inv Mgmt,Quality Tech,Y,Submitted,3283266,Up - Extend Late,2022-01-27 19:32:08,2022-01-27 19:32:08
+2022-02-19,0076072693,Faulkner  David,W2,Fulfillment Outbound,Warehouse Associate,Y,Submitted,3252809,Down - Any,2022-01-29 02:26:28,2022-01-29 02:26:28
+2022-02-19,0076122210,Forbes  Robert,U1,Warehousing,Warehouse Worker,Y,Submitted,3289383,Up - Full,2022-01-29 05:05:02,2022-01-29 05:05:02
+2022-02-19,0067062539,johnson  marshaun,F1,Warehousing,Warehouse Worker,Y,Submitted,3327814,Down - Full,2022-02-04 15:17:54,2022-02-04 15:17:54
+2022-02-19,0076093397,Guitron  Isaias,M2,Fulfillment Inbound,Warehouse Associate,Y,Submitted,3330712,Up - Any,2022-02-05 08:03:01,2022-02-05 08:03:01
+2022-02-19,0076119448,Washington  Natavius,F2,Warehousing,Warehouse Worker,Y,Submitted,3332524,Down - Full,2022-02-05 15:42:56,2022-02-05 15:42:56
+2022-02-19,0075402378,Zamudio  Maria,W1,ICQA,Quality Tech,Y,Submitted,3350808,Up - Extend Early,2022-02-08 10:23:05,2022-02-08 10:23:05
+2022-02-19,0075840272,Banks  Jeremy,W1,Inbound,Warehouse Worker,Y,Submitted,3358812,Down - Any,2022-02-09 15:41:22,2022-02-09 15:41:22
+2022-02-19,0075671913,Bridges  Harold,L3,Engineering & Facilities,Maintenance Mechanic,NA,Submitted,3360534,Up - Extend Early,2022-02-09 20:45:39,2022-02-09 20:45:39
