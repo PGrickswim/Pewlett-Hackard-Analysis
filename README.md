@@ -28,3 +28,15 @@ Looking at employees with birthdates during the calendar year of 1965 highlights
 Let's dig into the data a bit more. The upcoming wave of retirement will impact Pewlett-Hackard in major ways. Altogether, there are 72,458 retirement eligible employees, but only 1,549 employees eligible for the mentorship program. So while Pewlett-Hackard needs to fill over 72,000 roles as the retirement wave occurs, the current eligiblity of the mentorship program does not even come close to addressing the need. 
 
 With a review and fresh look at our mentorship program, we can assess if there is internal talent across a broader age bracket to fill the roles. Rather than just looking at employees born in 1965, let's take a look at a list of employees born between 1965 and 1974. Unfortunately, this query returns the same number! There are no employees at Pewlett-Hackard with a birthdate of 1966 or later. This is very problematic. Therefore, we must look to older employees to expand the mentorship program. By expanding mentorship elgibility to those born between July 1, 1961 and Dec 31, 1965, we have 66,147 employees eliligble for the mentorship program. By role, the following breakdown is shown:
+
+![Expanded_Mentorship](https://github.com/PGrickswim/Pewlett-Hackard-Analysis/blob/main/Exp_Mentorship.png)
+
+Note that there are more "Staff" and "Engineer" roles in the mentorship program eligibility group, and fewer "Senior Staff" and "Senior Engineer" roles. This could present some great opportunities for promotion! The overall recommendation based on the data is as follows:
+
+- Expand the Mentorship program to an eligibility window of July 1961 - December 1965 birthdates
+- Focus on hiring younger employees to continue the pipeline of talent for the company
+- Broaden and diversify the overall age range of employees in the company in order to prevent such a large wave of retirements from being so problematic in the future.
+
+### Conclusion
+
+There is a great deal of data presented in this report, and even more analysis can be completed. As business continuity plans are carried out and assessed, a data pipeline with relevant updates would be most helpful in continuing to conduct regular analysis of the firm's current position in terms of labor, as well as what next steps may be necessary. Thank you for the opportunity to complete this report.
